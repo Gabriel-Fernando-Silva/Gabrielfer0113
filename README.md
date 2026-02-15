@@ -31,9 +31,9 @@
     </td>
     
   <td valign="top" width="50%" style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Gabrielfer0113&theme=dark&show_icons=true&hide_border=true&count_private=true" style="width: 100%; max-width: 400px;">
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gabrielfer0113&theme=dark&show_icons=true&hide_border=true&count_private=true" style="width: 100%; max-width: 400px;"> -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielfer0113&theme=dark&hide_border=true" style="width: 100%; max-width: 400px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfer0113&theme=dark&show_icons=true&hide_border=true&layout=compact" style="width: 100%; max-width: 400px;">
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfer0113&theme=dark&show_icons=true&hide_border=true&layout=compact" style="width: 100%; max-width: 400px;"> -->
     </td>
     
   </tr>
