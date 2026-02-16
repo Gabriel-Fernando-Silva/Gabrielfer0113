@@ -9,13 +9,13 @@
       • JavaScript</br>
       • Python</br>
       • C#</br>
-      • PostgresSQL</br>
-      • SQlite</br>
+      • PostgreSQL</br>
+      • SQLite</br>
       • MySQL Workbench</br>
-      • NoSQL</br>
+      • MongoDB</br>
       • JSON</br>
       • Django</br>
-      • .NET</br>
+      • .NET MAUI</br>
       • Docker</br>
       • GitHub Actions</br>
       </br>
