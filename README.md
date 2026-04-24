@@ -2,7 +2,7 @@
   <tr>
     <td valign="top" width="50%" style="text-align: center;">
       
-#👋 Gabriel Fernando da Silva
+👋 Gabriel Fernando da Silva
 
 💾 Estudante de Ciência da Computação (5º semestre) | Foco em Engenharia de Dados
 
