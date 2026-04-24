@@ -1,8 +1,7 @@
 <table border="0" style="table-layout: fixed; width: 100%;">
   <tr>
     <td valign="top" width="50%" style="text-align: center;">
-      • Estudante de Ciências Da Computação | 5° Semestre</br>
-      • Desenvolvedor full-stack</br>
+      • Estudante de Ciência da Computação 5° Semestre| Foco em Engenharia de Dados | SQL | Python | ETL <br>
       ‎‎• HTML 5</br>
       • CSS 3</br>
       • Bootstrap</br>
