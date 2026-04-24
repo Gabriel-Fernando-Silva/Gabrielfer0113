@@ -46,7 +46,6 @@ Repositório com anotações e práticas sobre versionamento e fluxo de desenvol
 ## 📫 Contato
 
 📧 [g.fernandosilvaof@gmail.com](mailto:g.fernandosilvaof@gmail.com)
-
       </br>
         </br>
           </br>
